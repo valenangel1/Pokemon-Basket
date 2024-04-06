@@ -1,0 +1,14 @@
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.AssemblyInfoInputs.cache
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.AssemblyInfo.cs
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\AcividadPokemón\bin\Debug\net8.0\AcividadPokemón.exe
+C:\Users\Valentina\Desktop\AcividadPokemón\bin\Debug\net8.0\AcividadPokemón.deps.json
+C:\Users\Valentina\Desktop\AcividadPokemón\bin\Debug\net8.0\AcividadPokemón.runtimeconfig.json
+C:\Users\Valentina\Desktop\AcividadPokemón\bin\Debug\net8.0\AcividadPokemón.dll
+C:\Users\Valentina\Desktop\AcividadPokemón\bin\Debug\net8.0\AcividadPokemón.pdb
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.dll
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\refint\AcividadPokemón.dll
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.pdb
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\AcividadPokemón.genruntimeconfig.cache
+C:\Users\Valentina\Desktop\AcividadPokemón\obj\Debug\net8.0\ref\AcividadPokemón.dll
