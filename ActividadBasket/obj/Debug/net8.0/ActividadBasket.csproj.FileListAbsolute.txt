@@ -1,0 +1,14 @@
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.AssemblyInfoInputs.cache
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.AssemblyInfo.cs
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\ActividadBasket\bin\Debug\net8.0\ActividadBasket.exe
+C:\Users\Valentina\Desktop\ActividadBasket\bin\Debug\net8.0\ActividadBasket.deps.json
+C:\Users\Valentina\Desktop\ActividadBasket\bin\Debug\net8.0\ActividadBasket.runtimeconfig.json
+C:\Users\Valentina\Desktop\ActividadBasket\bin\Debug\net8.0\ActividadBasket.dll
+C:\Users\Valentina\Desktop\ActividadBasket\bin\Debug\net8.0\ActividadBasket.pdb
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.dll
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\refint\ActividadBasket.dll
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.pdb
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ActividadBasket.genruntimeconfig.cache
+C:\Users\Valentina\Desktop\ActividadBasket\obj\Debug\net8.0\ref\ActividadBasket.dll
